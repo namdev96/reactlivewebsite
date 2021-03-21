@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite/static/css/main.7d5e0128.chunk.css",
+    "main.js": "/reactlivewebsite/static/js/main.d89c0a18.chunk.js",
+    "main.js.map": "/reactlivewebsite/static/js/main.d89c0a18.chunk.js.map",
+    "runtime-main.js": "/reactlivewebsite/static/js/runtime-main.e7649939.js",
+    "runtime-main.js.map": "/reactlivewebsite/static/js/runtime-main.e7649939.js.map",
+    "static/css/2.74c02967.chunk.css": "/reactlivewebsite/static/css/2.74c02967.chunk.css",
+    "static/js/2.8fb873ae.chunk.js": "/reactlivewebsite/static/js/2.8fb873ae.chunk.js",
+    "static/js/2.8fb873ae.chunk.js.map": "/reactlivewebsite/static/js/2.8fb873ae.chunk.js.map",
+    "static/js/3.19bd2e82.chunk.js": "/reactlivewebsite/static/js/3.19bd2e82.chunk.js",
+    "static/js/3.19bd2e82.chunk.js.map": "/reactlivewebsite/static/js/3.19bd2e82.chunk.js.map",
+    "index.html": "/reactlivewebsite/index.html",
+    "static/css/2.74c02967.chunk.css.map": "/reactlivewebsite/static/css/2.74c02967.chunk.css.map",
+    "static/css/main.7d5e0128.chunk.css.map": "/reactlivewebsite/static/css/main.7d5e0128.chunk.css.map",
+    "static/js/2.8fb873ae.chunk.js.LICENSE.txt": "/reactlivewebsite/static/js/2.8fb873ae.chunk.js.LICENSE.txt",
+    "static/media/news1.1fc5902c.jpg": "/reactlivewebsite/static/media/news1.1fc5902c.jpg",
+    "static/media/news2.41a7d08e.jpg": "/reactlivewebsite/static/media/news2.41a7d08e.jpg",
+    "static/media/news4.eba358f5.jpg": "/reactlivewebsite/static/media/news4.eba358f5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7649939.js",
+    "static/css/2.74c02967.chunk.css",
+    "static/js/2.8fb873ae.chunk.js",
+    "static/css/main.7d5e0128.chunk.css",
+    "static/js/main.d89c0a18.chunk.js"
+  ]
+}
